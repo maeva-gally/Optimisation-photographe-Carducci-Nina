@@ -102,7 +102,7 @@ body {
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
 	color: #fff;
-	background-color: #BEB45A;
+	background-color: #656500;
 	border-radius:0 ;
 }
 .nav-pills .nav-link {
@@ -179,7 +179,7 @@ body {
 }
 
 .service {
-	background-color: white;
+	background-color: #fff;
 	max-width: 390px;
 	width: 30%;
 	height: 337px;
@@ -260,7 +260,7 @@ input[type="submit"] {
 	}
 }
 
-@media all and (max-width: 1000px) {
+@media all and (max-width: 1080px) {
 	#about{
 		flex-direction: column;
 
