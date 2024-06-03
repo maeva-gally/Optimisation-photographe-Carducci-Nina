@@ -72,5 +72,5 @@ order allow,deny
 deny from all
 </files>
 
-# protection de la lecture des r�pertoires
+# protection de la lecture des répertoires
 Options -Indexes
